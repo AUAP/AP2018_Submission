@@ -25,7 +25,7 @@ Instead of using html (which is very static), I want the javascript code to make
 How to install p5.dom library
 This function requires you include the p5.dom library in your HTML. Add the following into the head of your index.html file:
 <script language="javascript" type="text/javascript" src="path/to/p5.dom.js"></script>
-# How to use p5.dom technically 
+## How to use p5.dom technically 
 Every p5.dom function needs an argument inside the parentheses 
 createP(“This is a paragraph created by js”)
 if you would like to manipulate these objects like set their position. Simply make them into a variable
@@ -36,8 +36,8 @@ function setup(){
 and then call upon an object by using a dot element: (like .position .html….)
 Paragraph.position(50,50);
 
-# p5.dom library:
+## p5.dom library:
 select(), selectAll(), removeElements(), createDiv(), createP(), createSpan(), createImg(), createA(), createSlider(), createButton() ,createCheckbox(), createSelect(), createRadio(), createInput(), createFileInput(), createVideo(), createAudio(), createCapture(), createElement()
 
-# p5.elements - “dot elements”
+### p5.elements - “dot elements”
 addClass(), removeClass(), child(), center(), html(), position(), style(), attribute(), removeAttribute(), value(), show(), hide(), size(), remove()
