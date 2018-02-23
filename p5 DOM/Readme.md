@@ -1,11 +1,15 @@
 # p5.dom library
 https://p5js.org/reference/#/libraries/p5.dom
+
 p5.Elements (the brown methods are for p5.dom)
 https://p5js.org/reference/#/p5.Element
+
 Beyond the canvas
 https://github.com/processing/p5.js/wiki/Beyond-the-canvas
+
 David Shiffman on HTML / CSS / DOM:
 https://www.youtube.com/watch?v=URSH0QpxKo8&index=1&list=PLRqwX-V7Uu6bI1SlcCRfLH79HZrFAtBvX
+
 ## Generally about the index.html (hyper text markup language)
 Currently in the index.html premade for us by p5, we have these things in it:
 
