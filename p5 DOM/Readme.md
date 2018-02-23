@@ -12,10 +12,12 @@ https://www.youtube.com/watch?v=URSH0QpxKo8&index=1&list=PLRqwX-V7Uu6bI1SlcCRfLH
 
 ## Generally about the index.html (hyper text markup language)
 Currently in the index.html premade for us by p5, we have these things in it:
-
+![alt text](Billede2.png "Atom.io")
 
 These <script> refer to the p5 libraries, so that the javascript knows which language we’re writing in.
 HTML has the source codes for the page - so it’s everything going on behind your javascript, kinda like “behind the scenes”. in the <head> you put into files that you want the source code to reference to, for example javascript files and libraries. In the <body> you put in the markups like headings, paragraphs or images.These things are called elements. 
+![alt text](Billede3.png "HTML")
+
 
 And what .dom does is to define these elements as OBJECTS in order to manipulate with them.
 # p5.dom: Document Object Model
@@ -41,3 +43,7 @@ select(), selectAll(), removeElements(), createDiv(), createP(), createSpan(), c
 
 ### p5.elements - “dot elements”
 addClass(), removeClass(), child(), center(), html(), position(), style(), attribute(), removeAttribute(), value(), show(), hide(), size(), remove()
+
+
+Here is a screenshot of our program:
+![alt text](Billede1.png "p5.Dom")
