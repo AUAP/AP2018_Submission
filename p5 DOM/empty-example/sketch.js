@@ -43,15 +43,12 @@ function setup() {
   button = createButton("This is a Comic Sans button, click me!")
   button.size(200,50)
   button.position(35,240);
-  button.mousePressed(changeBG);
+  button.mousePressed(bu=random(100));
   button.style("font-family", "ComicSansMs");
 
 }
 
 
-function changeBG(){
-  var bu = random(100);
-}
 
 function draw() {
   // These commands are applied to the graphics canvas as normal.
