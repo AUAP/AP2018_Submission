@@ -1,4 +1,5 @@
-# p5.dom library
+# p5.dom: Document Object Model
+p5.dom library
 https://p5js.org/reference/#/libraries/p5.dom
 
 p5.Elements (the brown methods are for p5.dom)
