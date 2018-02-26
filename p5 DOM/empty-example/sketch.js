@@ -7,6 +7,7 @@ var h1;
 var img;
 
 function setup() {
+    background(50,20,10);
   var myCanvas;
   myCanvas = createCanvas(600, 400);
   myCanvas.position(550, 50);
@@ -55,7 +56,7 @@ function changeBG(){
 function draw() {
   // These commands are applied to the graphics canvas as normal.
 frameRate(100);
-  background(50);
+
    fill(255);
    textSize(32);
    textAlign(CENTER, CENTER);
