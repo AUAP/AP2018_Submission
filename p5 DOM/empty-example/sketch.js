@@ -59,7 +59,7 @@ frameRate(100);
    fill(255);
    textSize(32);
    textAlign(CENTER, CENTER);
-   text(sourceText,0,0)
+   text(sourceText,width/2,height/2)
 }
 
 function mousePressed() {
