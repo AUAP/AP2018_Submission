@@ -59,7 +59,11 @@ frameRate(100);
    fill(255);
    textSize(32);
    textAlign(CENTER, CENTER);
-   text(sourceText,width/2,height/2)
+   var middle = sourceText.length / 2;
+   var left = middle - ((mouseX / width) * middle);
+   var right = middle + ((mouseX / width) * middle);
+   text(sourceText.substring(left, right+1),
+        width/2, height/2);
 }
 
 function mousePressed() {
