@@ -23,7 +23,7 @@ function setup() {
 
   //Paragraph
 
-  Paragraph = createP("This is a paragraph created by javascript")
+  Paragraph = createP("This is a paragraph created by Teis' javascript")
   Paragraph.position(50,100);
   Paragraph.style("font-family", "Garamond");
   Paragraph.style("ITALIC");
