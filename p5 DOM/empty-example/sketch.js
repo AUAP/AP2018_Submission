@@ -13,7 +13,7 @@ function setup() {
   myCanvas.position(550, 50);
 
   // Header 1
-  h1 = createElement('h1', 'Javascript header1');
+  h1 = createElement('h1', 'Javascript header');
   h1.position(50, 150);
   h1.size(1000);
 
