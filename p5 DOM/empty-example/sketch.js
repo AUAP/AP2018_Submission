@@ -5,6 +5,7 @@ var slider;
 var button;
 var h1;
 var img;
+var bu = 100;
 
 function setup() {
 
