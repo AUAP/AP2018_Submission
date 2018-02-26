@@ -5,7 +5,7 @@ var slider;
 var button;
 var h1;
 var img;
-var bu = 0;
+var bu = 10;
 
 function setup() {
 
@@ -43,7 +43,7 @@ function setup() {
   button = createButton("This is a Comic Sans button, click me!")
   button.size(200,50)
   button.position(35,240);
-  button.mousePressed(bu+5);
+  button.mousePressed(bu);
   button.style("font-family", "ComicSansMs");
 
 }
