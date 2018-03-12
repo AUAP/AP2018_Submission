@@ -4,7 +4,7 @@
 
 The course introduces computer coding as an aesthetic, expressive, creative and critical endeavour beyond its functional application. It explores coding as a practice of reading, writing and building, as well as thinking with and in the world, and understanding the complex computational procedures that underwrite our experiences and realities in digital culture. Through coding practice, students are able to contextualize, conceptualize, articulate, design, build, write and run a piece of software. 
 
-By drawing upon different theoretical texts from the course Aesthetic Programming and Software Studies, your group is required to conceptualize, design, implement and articulate a computational artifact that explore one, or more, of the weekly class' theme, expressing the aesthetic of code/computational structure/computational culture. The idea should be built/reflect upon any one of the assigned articles in Software Studies/Aesthetic Programming class. In this way, your work should demonstrate the ability to integrate practical skills and theoretical understandings to articulate and develop computational artifacts, examining the aesthetic, cultural, social and political aspects of software.  
+By drawing upon different theoretical texts from the course Aesthetic Programming and Software Studies, your group is required to conceptualize, design, implement and articulate a computational artifact that explore one, or more, of the weekly classes' theme, expressing the aesthetic of code/computational structure/computational culture. The idea should be built/reflect centrally upon any one of the assigned/suggested articles in Software Studies/Aesthetic Programming class but you are encouraged to have more than one references to support your idea. In this way, your work should demonstrate the ability to integrate practical skills and theoretical understandings to articulate and develop computational artifacts, examining the aesthetic, cultural, social and political aspects of software.  
 
 To begin with, there are few tips may help you to come up with a project idea: 
 
@@ -33,10 +33,11 @@ To begin with, there are few tips may help you to come up with a project idea:
 1/ **RUNME:**  A piece of software written in p5.js (or a combination of HTML/CSS/JS/P5/node.js).
 * Remember to include all external libraries and data such as images, font, text file, sound etc. Furthermore, if you have borrowed other sample code, please **cite** your sources in the code comments. 
 
-2/ **README:** A single word document within 6 pages.  The document includes a title, a screen shot, a flow chart, a synopsis, a link to your video documentation, links to related projects (if there is any).  Regarding the synopsis, it should address at least the following questions:
--	What is your software about (short description: what is it and what do you want to explore)?
--	How does it work?
--	How has your work expressed the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned articles)
+2/ **README:** A single word document within 6 pages (max characters: 2400 x 6) which has to be properly written academically. The README will be used as a base for oral exam(exclude images, references and notes).
+
+The document should include a **title**, **a screen shot**, **a flow chart**, **a link to your video documentation/your browser work**, **links to related projects** (if there is any).  Regarding the README as a synopsis, it should address at least the following questions:
+-	What is your software about (short description: what is it, how does it work and what do you want to explore)?
+-	How has your work addressed at least one of the themes? Can you reflect about how has your work expressed the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned articles)
 -	Open question: How do you see the project as a critical work in itself?
 
 3/ **Submission via Github:** 
@@ -66,7 +67,7 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 | Week 17   - 23-Apr (MON) | Notification of group meeting schedule via email      
 | Week 17   - 24-Apr (TUE) | **Face to face feedback/discussion on the draft synopsis**  (any time in between 08.15-13.00)                
 | Week 18   - 1-May  (TUE) | No class (Prepare for your final project)     
-| Week 19   - 8-May  (WED) | **FINAL GROUP PRESENTATION + SUBMISSION**     
+| Week 19   - 8-May  (TUE) | **FINAL GROUP PRESENTATION + SUBMISSION**     
 
 ## Presentation Arrangement:
 Date: 8 May 2018, Location: 5361-144
