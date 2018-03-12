@@ -33,7 +33,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 1/ **RUNME:**  A piece of software written in p5.js (or a combination of HTML/CSS/JS/P5/node.js).
 * Remember to include all external libraries and data such as images, font, text file, sound etc. Furthermore, if you have borrowed other sample code, please **cite** your sources in the code comments. 
 
-2/ **README:** A single word document within 6 pages (max characters: 2400 x 6) which has to be properly written academically. The README will be used as a base for oral exam(exclude images, references and notes).
+2/ **README:** A single word document within 6 pages (max characters: 2400 x 6) which has to be properly written academically (exclude images, references and notes). The README will be used as a base for oral exam.
 
 The document should include a **title**, **a screen shot**, **a flow chart**, **a link to your video documentation/your browser work**, **links to related projects** (if there is any).  Regarding the README as a synopsis, it should address at least the following questions:
 -	What is your software about (short description: what is it, how does it work and what do you want to explore)?
