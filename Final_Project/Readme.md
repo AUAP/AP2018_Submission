@@ -33,9 +33,11 @@ To begin with, there are few tips may help you to come up with a project idea:
 1/ **RUNME:**  A piece of software written in p5.js (or a combination of HTML/CSS/JS/P5/node.js).
 * Remember to include all external libraries and data such as images, font, text file, sound etc. Furthermore, if you have borrowed other sample code, please **cite** your sources in the code comments. 
 
-2/ **README:** A single word document within 6 pages (max characters: 2400 x 6) which has to be properly written academically (exclude images, references and notes). The README will be used as a base for oral exam.
+2/ **README:** A single word document within 6 pages (max characters: 2400 x 6) which has to be properly written academically (exclude images, references and notes). The README document will be used as a base for oral exam.
 
-The document should include a **title**, **a screen shot**, **a flow chart**, **a link to your video documentation/your browser work**, **links to related projects** (if there is any).  Regarding the README as a synopsis, it should address at least the following questions:
+The document should include a **title**, **a screen shot**, **a flow chart**, **a link to your video documentation/your browser work**, **links to related projects** (if there is any). Please export to a PDF and upload the file (see below #3).
+
+Regarding the README as a synopsis, it should address at least the following questions:
 -	What is your software about (short description: what is it, how does it work and what do you want to explore)?
 -	How has your work addressed at least one of the themes? Can you reflect about how has your work expressed the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned articles)
 -	Open question: How do you see the project as a critical work in itself?
@@ -44,7 +46,7 @@ The document should include a **title**, **a screen shot**, **a flow chart**, **
 - Submission channel: https://github.com/AUAP/AP2018_Submission
 - Create a group folder under the existing one-“Final_Project” e.g Group1, Group2 …
 - For draft submission: create a draft folder under your group folder
-- For final project submission: create a final folder under your group folder, then put all the RUNME and README files inside the final folder.
+- For final project submission: create a final folder under your group folder, then put all the RUNME and README (pdf) files inside the final folder.
 
 ## Presentation: 
 
