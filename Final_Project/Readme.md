@@ -54,7 +54,6 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 
 * Be selective of your presentation items; present those you think are key to the class
 * Make sure you have tested your program in a classroom setting, such as projector, Internet connection, sound, slide, resolution etc. 
-* Our internal examiner Marie Louise Juul Søndergaard will be there too. 
 
 ## Timeline:
 
