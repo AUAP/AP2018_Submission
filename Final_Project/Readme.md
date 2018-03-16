@@ -70,7 +70,7 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 | Week 17   , 24-Apr (TUE) | **Face to face feedback/discussion on the draft synopsis**  (any time in between 08.15-13.00)                
 | Week 18   , 1-May  (TUE) | No class (Prepare for your final project)     
 | Week 19   , 8-May  (TUE) | **FINAL GROUP PRESENTATION + SUBMISSION**     
-| Week 24   , 12-14-Jun.   | **ORAL EXAM**     
+| Week 24   , 12-14-Jun    | **ORAL EXAM**     
 
 ## Presentation Arrangement:
 Date: 8 May 2018, Location: 5361-144
