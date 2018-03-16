@@ -94,7 +94,7 @@ Date: 8 May 2018, Location: 5361-144
 ## Oral Exam Arrangement:
 Date: 12-14 JUN, schedule/Venue - TBC
 - 30 mins preparation time
-- 10 mins presentation (an on-site question + the assigned question)
+- 10 mins presentation (an on-site question + the assigned question, 5 mins each)
 - 10 mins discussion together
 - 5 mins discussion within examiners only
 - 5 mins feedback on grade and exam
