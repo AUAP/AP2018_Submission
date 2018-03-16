@@ -26,7 +26,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 
 4/ Is there any particular technical area that you want to explore and employ in this project? 
 
-5/ Take a look at previous students’ work: https://vimeo.com/groups/382805 
+5/ Take a look at previous students’ work: https://vimeo.com/groups/382805 (Just for reference, and please don't bound by the existing ideas)
 
 ## Deliverable:
 
