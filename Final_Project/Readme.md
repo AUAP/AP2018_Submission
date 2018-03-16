@@ -10,7 +10,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 
 1/ You may take a look again on the themes that we have used in our weekly classes for inspiration.  
 
--	Coding Practice / Open Soure Culture
+-	Coding Practice (Coding literacy/Computational Thinking)
 -	Code and Fun
 -	Code and Temporality
 -	Code and Data Capture
