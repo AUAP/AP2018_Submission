@@ -22,7 +22,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 
 2/ Take a look again on all the mini exercises and all the questions that were set. Is there any one that you want to explore further?
 
-3/ Is there any assigned text (from both Software Studies and Aesthetic Programming) that you are especially connected with and you want to explore in a deeper way? (Do you particularly/partially agree or disagree on some of the points in the selected article? Why?)
+3/ Is there any assigned/suggested text (from both Aesthetic Programming and Software Studies) that you are especially connected with and you want to explore in a deeper way? (Do you particularly/partially agree or disagree on some of the points in the selected article? Why?)
 
 4/ Is there any particular technical area that you want to explore and employ in this project? 
 
@@ -42,6 +42,8 @@ Regarding the README as a synopsis, it should address at least the following que
 -	How has your work addressed at least one of the themes? Can you reflect about how has your work expressed the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned articles)
 -	Open question: How do you see the project as a critical work in itself?
 
+NB: Be focused on your subject matter, and try to think about what's the problem or question that you want to address/raise in your work and back up your discussion and reflection with the chosen text(s).
+
 3/ **Submission via Github:** 
 - Submission channel: https://github.com/AUAP/AP2018_Submission
 - Create a group folder under the existing one-“Final_Project” e.g Group1, Group2 …
@@ -57,7 +59,6 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 
 ## Timeline:
 
-
 | Date         | Check point                                  
 | ------------ |:-------------------------------------------  
 | Week 12   - 20-Mar (TUE) | Final project brief introduction             
@@ -65,10 +66,11 @@ Conduct a presentation within 10 mins with a software demo, articulating your wo
 | Week 15   - 10 Apr (TUE) | Discussion of final projects                               
 | Week 16   - 17-Apr (TUE) | Introduce mini_ex > draft of synopsis - README                             
 | Week 16   - 22-Apr (SUN) | **Upload the draft project’s synopsis + flowchart**                           
-| Week 17   - 23-Apr (MON) | Notification of group meeting schedule via email + prepare peer feedback      
+| Week 17   - 23-Apr (MON) | Notification of group meeting schedule via email + prepare a peer feedback on Github    
 | Week 17   - 24-Apr (TUE) | **Face to face feedback/discussion on the draft synopsis**  (any time in between 08.15-13.00)                
 | Week 18   - 1-May  (TUE) | No class (Prepare for your final project)     
 | Week 19   - 8-May  (TUE) | **FINAL GROUP PRESENTATION + SUBMISSION**     
+| Week 24   - 12-14-Jun.   | **ORAL EXAM**     
 
 ## Presentation Arrangement:
 Date: 8 May 2018, Location: 5361-144
