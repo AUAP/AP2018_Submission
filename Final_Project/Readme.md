@@ -90,3 +90,17 @@ Date: 8 May 2018, Location: 5361-144
 | 11.05-11.20 | Group 1                             
 | LUNCH BREAK 
 | 12.00-13.30 | ALL
+
+## Oral Exam Arrangement:
+Date: 12-14 JUN, schedule/Venue - TBC
+- 30 mins preparation time
+- 10 mins presentation (an on-site question + the assigned question)
+- 10 mins discussion together
+- 5 mins discussion within examiners only
+- 5 mins feedback on grade and exam
+
+*Notes:
+- feel free to bring your computer/pen/notes/blank paper if you think they help your exam
+- no live coding
+- Read again the course outline/objectivies on the course expectation
+
