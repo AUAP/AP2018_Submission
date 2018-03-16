@@ -102,5 +102,5 @@ Date: 12-14 JUN, schedule/Venue - TBC
 *Notes:
 - feel free to bring your computer/pen/notes/blank paper if you think they help your exam
 - no live coding
-- Read again the course outline/objectivies on the course expectation
+- Read again the course outline and learning outcomes on the course expectation
 
