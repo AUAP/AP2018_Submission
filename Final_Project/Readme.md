@@ -92,6 +92,12 @@ Date: 8 May 2018, Location: 5361-144
 | 12.00-13.30 | ALL
 
 ## Oral Exam Arrangement:
+
+**Requirement of entering exam A:**
+- To pass the participation requirement and to enter Exam A, you need to attend at least 75% of the course including guest lectures which means you can only skip maximum 3 lecture classes and 3 tutorials.
+- Weekly mini exercises (together with 2x written peer-feedback per mini ex) is considered as part of the course participation. For those who fail to submit their work may incur a **penalty of absence in one class**.
+- You need to submit your final project with the runme, readme as well as having a presentation to the class at the last lecture.
+
 Date: 12-14 JUN, schedule/Venue - TBC
 - 30 mins preparation time
 - 10 mins presentation (an on-site question + the assigned question, 5 mins each)
