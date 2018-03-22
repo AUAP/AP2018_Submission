@@ -39,7 +39,7 @@ The document should include a **title**, **a screen shot**, **a flow chart**, **
 
 Regarding the README as a synopsis, it should address at least the following questions:
 -	What is your software about (short description: what is it, how does it work and what do you want to explore)?
--	How does your work address= at least one of the themes? Can you reflect about how does your work express the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned articles)
+-	How does your work address at least one of the themes? Can you reflect about how does your work express the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned/suggested articles)
 -	Open question: How do you see the project as a critical work in itself?
 
 NB: Be focused on your subject matter, and try to think about what's the problem or question that you want to address/raise in your work and back up your discussion and reflection with the chosen text(s).
