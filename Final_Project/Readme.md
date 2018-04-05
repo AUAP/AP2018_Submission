@@ -19,6 +19,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 -	Code and Language
 -	Code and Queries
 - Code and Algorithms
+- Code and Machine Learning
 
 2/ Take a look again on all the mini exercises and all the questions that were set. Is there any one that you want to explore further?
 
