@@ -43,7 +43,7 @@ Regarding the README as a synopsis, it should address at least the following que
 -	How does your work address at least one of the themes? Can you reflect about how does your work express the aesthetic of code/computational structure/computational culture? (You need to refer explicitly to any one of the assigned/suggested articles)
 -	Open question: How do you see the project as a critical work in itself?
 
-NB: Be focused on your subject matter, and try to think about what's the problem or question that you want to address/raise in your work and back up your discussion and reflection with the chosen text(s).
+NB: Be focused on your subject matter, and try to think about what's the problem or question that you want to address/raise in your work and back up your discussion and reflection with the chosen text(s) and the practice.
 
 3/ **Submission via Github:** 
 - Submission channel: https://github.com/AUAP/AP2018_Submission
