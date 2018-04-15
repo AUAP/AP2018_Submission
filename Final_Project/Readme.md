@@ -19,7 +19,7 @@ To begin with, there are few tips may help you to come up with a project idea:
 -	Code and Language
 -	Code and Queries
 - Code and Algorithms
-- Code and Machine Learning
+- (Code and Machine Learning)
 
 2/ Take a look again on all the mini exercises and all the questions that were set. Is there any one that you want to explore further?
 
@@ -105,6 +105,8 @@ Date: 12-14 JUN, schedule/Venue - TBC
 - 10 mins discussion together
 - 5 mins discussion within examiners only
 - 5 mins feedback on grade and exam
+
+co-examinar: [Lindsay Macdonald Vermeulen](http://pure.au.dk/portal/en/persons/id(6698df59-a9e0-4d5f-b297-3d54d1bf9d45).html)
 
 *Notes:
 - feel free to bring your computer/pen/notes/blank paper if you think they help your exam
