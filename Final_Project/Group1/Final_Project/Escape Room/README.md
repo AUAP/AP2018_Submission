@@ -1,0 +1,1 @@
+Escape Room is a point and click puzzle horror video game developed and published by A2F Interactive, a team that consists of Alexander Svanholm, Frederik Ditlev and Anne Gregersen. It was released for all computer programs with a graphical user interface for displaying HTML files on May 8, 2018.
