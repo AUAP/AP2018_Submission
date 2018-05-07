@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
+    <style> body {padding: 0; margin: 0;}
+    /* CSS styling for inputbox and button */
+    button {
+       background-color: #71a761;
+       color: black;
+       border-radius: 3px;
+       border: none;
+       position: absolute;
+       left: 50px;
+       top: 25px;
+       padding: 6px;
+       box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+
+    }
+    input{
+      border-color: #cfd1cf;
+      border-style:solid;
+      border-radius:5px;
+    }
+    .inputOne {
+      position: absolute; /*absolute = the element is positioned relative to its first positioned*/
+      left:70px;
+      top: 200px;
+      align-content:center;
+    }
+    .inputTwo {
+      position: absolute;
+      left:70px;
+      top: 230px;
+    }
+    </style>
+    <script src="../p5.min.js"></script>
+    <script src="../addons/p5.dom.min.js"></script>
+    <script src="../addons/p5.sound.min.js"></script>
+    <script src="frontPage.js"></script>
+    <script src="sidePage.js"></script>
+    <script src="sketch.js"></script>
+    <script src="startPage.js"></script>
+
+
+  </head>
+  <body>
+    <body>
+  <!-- Input areas and buttons-->
+      <div class="inputOne">
+      <input type="text" name="inputBox" id= "myresultone" placeholder="Who is your friend?">
+    </div>
+    <div class="inputTwo">
+      <input type="text" name="inputBox" id= "myresulttwo" placeholder="What are you doing?">
+      <button onclick="yourActivity()"id= "sbutton">Submit</button>
+    </div>
+  </body>
+</html>
