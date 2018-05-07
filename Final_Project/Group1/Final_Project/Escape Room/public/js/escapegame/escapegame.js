@@ -18,13 +18,6 @@ function setup() {
   dripMusic.loop();
   // Dripping sound volume
   dripMusic.amp(0.04,0.04);
-
-    if (dripMusic.context.state !== 'running') {
-        dripMusic.context.resume();
-    }
-  if (basementMusic.context.state !== 'running') {
-        basementMusic.context.resume();
-    }
   
 }
 //setup ends
