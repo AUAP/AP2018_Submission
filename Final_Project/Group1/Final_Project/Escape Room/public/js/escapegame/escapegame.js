@@ -22,6 +22,9 @@ function setup() {
     if (dripMusic.context.state !== 'running') {
         dripMusic.context.resume();
     }
+  if (basementMusic.context.state !== 'running') {
+        basementMusic.context.resume();
+    }
   
 }
 //setup ends
