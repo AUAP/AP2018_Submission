@@ -1,0 +1,61 @@
+You click ‘Start game’. You spawn in the hallway. There are four doors in total, but two of them are locked,
+these being the main exit and one other door marked “Circuit Room.” You know that the key to the main exit is
+in the Circuit Room, so you must find the code to open the door
+
+The doors to the “Radiator Room” and the “Storage Room” are both open. 
+
+
+In the “Radiator Room” a riddle is written on the wall. 
+
+“Reaching stiffly for the sky, I bare my fingers when it's cold. In warmth I wear an emerald glove and in between I dress in gold.” (The answer is tree)
+
+
+In the “Storage Room” there are letters with corresponding numbers on the wall. 
+
+N=0
+B=1
+A=2
+T=3
+R=4
+S=5
+E=6
+O=7
+I=8
+G=9
+
+So, the code is 3466 (TREE).
+
+There is also a locked chest on the floor. 
+Corresponding the right numbers to the right letters gives you a code that opens the door into the “Circuit Room.” 
+
+The key fits the lock for the chest in the “Radiator Room”. In that chest is a keycard, which makes the main door open. 
+
+You won
+
+
+
+So, this is my checklist.
+Need to have: Controls “Puzzles” Narrative
+Nice to have: Soundtrack Story Main Menu Hover Text on doors Scoreboard Timer Sound Effects Highscore and Clickcount Easter Eggs
+What I wanted was a button next to 'Play game' that is called 'FAQ' or something like that where I can insert some text
+
+So I think the important things that need to be there are the following.
+
+//1) The riddles, keypad and objects need to work.
+
+//2) When there's a game over, there needs to be a possibility of going back to the main menu.
+
+//3) On the main menu, there needs to be a "How to play" (including tutorial + extra info), which I will fill out when
+the "template" is ready.
+
+//4) Some hover text on doors to show which room it is when mouse is hovered over it
+
+//5) Background picture on main menu (behind the buttons)
+
+//6) Some sound effects when opening doors, opening chests, etc..
+
+Easter eggs
+
+Scoreboard and highscore system
+
+//Fix music
