@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Gender Neutralizer",
+  "version": "4.0",
+  "background": {
+    "scripts":["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["genders.js", "content.js"]
+    }
+  ],
+  "permissions": ["tabs", "activeTab", "webNavigation"],
+  "browser_action": {
+  "default_icon": "/logo/128.png"
+  },
+  "icons": {
+    "16": "/logo/16.png",
+    "48": "/logo/48.png",
+    "128": "/logo/128.png"
+  }
+}
