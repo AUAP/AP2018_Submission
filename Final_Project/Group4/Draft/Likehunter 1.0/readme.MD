@@ -1,1 +1,0 @@
-[Like Hunter](https://rawgit.com/AUAP/AP2018_Submission/master/Final_Project/Group4/Draft/Likehunter%201.0/empty-example/index.html)
