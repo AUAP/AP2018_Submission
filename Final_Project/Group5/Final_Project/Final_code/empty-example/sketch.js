@@ -275,7 +275,7 @@ function draw(){
     }
   }
 
-  image(persona,650,50,persona.width/6,persona.height/6);
+  image(persona,650,50,persona.width/5,persona.height/5);
 }
 
 
